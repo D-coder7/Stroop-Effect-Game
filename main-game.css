@@ -1,0 +1,132 @@
+.menufont {
+    /*background-image: url('wooden-sign-hung-from-rope-removebg-preview\ 1.png');*/
+    position: absolute;
+    width: 764px;
+    height: 119px;
+    left: 400px;
+    top: 5%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 116px;
+
+    color: #FF00F5;
+
+}
+
+.mainFont {
+    font-family: fantasy;
+    /* padding-top: 10%; */
+    left: 50%;
+    /* margin: auto auto; */
+    margin-left: -78px;
+    font-size: 100px;
+}
+
+.color-word {
+    font-size: 200px;
+    margin-top: 50px;
+    /* margin-left: -38%; */
+    text-align: center;
+    font-family: fantasy;
+    /* align-self: center; */
+}
+.choices {
+    margin-top: 45px;
+    margin-left: 225px;
+}
+.choice-button {
+    font-size: 36px;
+    margin: 5px;
+    padding: 10px 20px;
+    background-color: #ccc;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.choice-button:hover {
+    background-color: #ddd;
+}
+.feedback {
+    text-align: center;
+    font-size: 50px;
+    margin-top: 10px;
+}
+.stats {
+    font-size: 50px;
+    font-family: fantasy;
+    text-align: center;
+    /* margin-left: -40%; */
+    margin-top: 50px;
+}
+#restartButton {
+    /* margin-bottom: 10px; */
+    /* position: absolute; */
+    /* width: 207px;
+    height: 69px;
+    left: 537px;
+    top: 467px; */
+  
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    /* line-height: 44px; */
+  
+    position: absolute;
+    width: 224px;
+    height: 57px;
+    /* left: 1039px;
+    top: 737px; */
+    /* bottom: 0%; */
+    /* padding-bottom: 100%; */
+    /* bottom: 0%; */
+    top: 10%;
+    left: 80%;
+  
+    background: #C69EF8;
+    border-radius: 36px;
+    border-style: none;
+    cursor: pointer;
+  }
+  
+  #exit {
+    /* margin-bottom: 10px; */
+    position: absolute;
+    /* width: 207px;
+    height: 69px;
+    left: 537px;
+    top: 467px; */
+  
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    /* line-height: 44px; */
+  
+    /* position: relative; */
+    width: 224px;
+    height: 57px;
+    /* left: 1039px;
+    top: 737px; */
+    /* bottom: 4%; */
+    top: -2%;
+    left: 80%;
+  
+    background: #C69EF8;
+    border-radius: 36px;
+    border-style: none;
+    cursor: pointer;
+  }
+  
+  body {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    margin: 0rem;
+    /* padding: 0%; */
+    overflow: hidden;
+    background: url(images/background.png);
+  }  

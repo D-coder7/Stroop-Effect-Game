@@ -1,0 +1,114 @@
+body {
+    /* background-image: url('images/congratulations-page.png'); */
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 0%;
+    /* background-color: green; */
+    margin-bottom: 0px;
+    /* margin-bottom: 0%; */
+    margin: 0rem;
+  overflow: hidden;
+}
+
+.menufont {
+    /*background-image: url('wooden-sign-hung-from-rope-removebg-preview\ 1.png');*/
+    position: absolute;
+    width: 764px;
+    height: 119px;
+    left: 400px;
+    top: 50px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 116px;
+
+    color: #FF00F5;
+
+}
+
+.menu-items {
+    /*background-image: url('wood-2-removebg-preview.png');*/
+    width: 320px;
+    height: 455px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-top: -30px;
+    margin-left: 540px;
+    margin-bottom: 0px;
+}
+
+.mainFont {
+    font-family: fantasy;
+    padding-top: 10%;
+    left: 50%;
+    /* text-align: center; */
+    /* margin: auto auto; */
+    margin-left: -58px;
+    /* font-size: 100px; */
+}
+
+.mainItems {
+    /* background: none; */
+    border: 0px;
+    font-family: fantasy;
+    font-size: 48px;
+    width: 224px;
+    height: 57px;
+    position: absolute;
+    /* left: 1039px;
+  top: 737px; */
+    bottom: 4%;
+    right: 2%;
+
+    background: #C69EF8;
+    border-radius: 36px;
+}
+
+#start {
+    position: absolute;
+    width: 207px;
+    height: 69px;
+    left: 50%;
+    top: 65%;
+    margin-left: -100px;
+
+    /* font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 77px; */
+
+    color: #000000;
+    cursor: pointer;
+
+}
+
+/* #scores{
+    margin-left: 72px;
+    margin-top: 9px;
+    color: gold;
+} */
+/* 
+#exit{
+    position: absolute;
+    width: 207px;
+    height: 69px;
+    left: 50%;
+    top: 65%;
+    margin-left: -100px;
+
+    color: #000000;
+} */
+
+.text {
+    text-align: center;
+    /* justify-self: center; */
+    font-family: fantasy;
+    font-size: 30px;
+    position: relative;
+    top: 35%;
+}
